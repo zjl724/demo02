@@ -1,0 +1,17 @@
+.list-content {
+    width: 500px;
+    margin-top: 20px;
+    border-bottom: 1px solid #dedede;
+}
+
+.list-content span {
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    width: 100px;
+}
+
+.edit {
+    cursor: pointer;
+    color: skyblue;
+}
